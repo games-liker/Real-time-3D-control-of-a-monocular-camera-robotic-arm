@@ -1,4 +1,4 @@
-# 3D实时重定向演示模块
+# 单目摄像头机械臂实时3D控制
 
 这是一个模块化的3D实时重定向系统，将代码放入dex_retargeting (https://github.com/dexsuite/dex-retargeting) 的dex-retargeting\example目录下即可运行。
 
