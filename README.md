@@ -1,6 +1,14 @@
 # 3D实时重定向演示模块
 
-这是一个模块化的3D实时重定向系统，将代码放入dex_retargeting的dex-retargeting\example目录下即可运行。
+这是一个模块化的3D实时重定向系统，将代码放入dex_retargeting (https://github.com/dexsuite/dex-retargeting) 的dex-retargeting\example目录下即可运行。
+
+## Demo 视频
+
+<p align="center">
+  <video src="demo.mp4" controls width="720"></video>
+</p>
+
+如果 GitHub 没有直接播放视频，你也可以点击下方文件 `demo.mp4` 进行查看。
 
 ## 模块结构
 
@@ -152,3 +160,8 @@ python main.py
 2. 确保机器人URDF文件路径正确
 3. 多视角显示需要足够的GPU资源
 4. 按 'q' 键退出程序
+
+## 引用与致谢
+
+本项目的代码实现基于 GitHub 上的 `dexsuite/dex-retargeting`。感谢原作者开源与贡献：
+https://github.com/dexsuite/dex-retargeting
