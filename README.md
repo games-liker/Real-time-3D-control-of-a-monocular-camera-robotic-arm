@@ -5,7 +5,10 @@
 ## Demo 视频
 
 <p align="center">
-  <video src="demo.mp4" controls width="720"></video>
+  <video controls width="720" playsinline>
+    <source src="https://raw.githubusercontent.com/games-liker/Real-time-3D-control-of-a-monocular-camera-robotic-arm/main/demo.mp4" type="video/mp4">
+    你的浏览器不支持视频播放，请点击这里下载/查看：demo.mp4
+  </video>
 </p>
 
 如果 GitHub 没有直接播放视频，你也可以点击下方文件 `demo.mp4` 进行查看。
